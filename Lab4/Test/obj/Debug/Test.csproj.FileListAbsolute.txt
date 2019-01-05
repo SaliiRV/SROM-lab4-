@@ -1,0 +1,12 @@
+C:\Users\kl_66\source\repos\Lab4\Test\bin\Debug\Test.dll
+C:\Users\kl_66\source\repos\Lab4\Test\bin\Debug\Test.pdb
+C:\Users\kl_66\source\repos\Lab4\Test\bin\Debug\Lab4.exe
+C:\Users\kl_66\source\repos\Lab4\Test\bin\Debug\nunit.framework.dll
+C:\Users\kl_66\source\repos\Lab4\Test\bin\Debug\Lab4.pdb
+C:\Users\kl_66\source\repos\Lab4\Test\bin\Debug\Lab4.exe.config
+C:\Users\kl_66\source\repos\Lab4\Test\bin\Debug\nunit.framework.xml
+C:\Users\kl_66\source\repos\Lab4\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\kl_66\source\repos\Lab4\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\kl_66\source\repos\Lab4\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\kl_66\source\repos\Lab4\Test\obj\Debug\Test.dll
+C:\Users\kl_66\source\repos\Lab4\Test\obj\Debug\Test.pdb
